@@ -1,0 +1,20 @@
+{
+  "name": "insurance-dapp",
+  "version": "1.0.0",
+  "description": "Système décentralisé de gestion des assurances - Sinistres sur blockchain",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "test:coverage": "hardhat coverage",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:hardhat": "hardhat run scripts/deploy.js",
+    "seed": "hardhat run scripts/seed.js --network localhost",
+    "frontend": "cd frontend && npm start"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0",
+    "dotenv": "^16.4.5"
+  }
+}
