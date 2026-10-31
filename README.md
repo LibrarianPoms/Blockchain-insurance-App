@@ -24,17 +24,6 @@ Le projet couvre l'ensemble de la chaîne de valeur assurantielle :
 
 ---
 
-## 👥 Cadre & Équipe du Projet
-
-| Information | Détails |
-|---|---|
-| **Domaine** | Blockchain — Web3 — Finance Décentralisée (DeFi) |
-| **Cadre** | 4CIR G1 ANFA — Projet Blockchain |
-| **Date** | 16 mai 2026 |
-| **Réseaux supportés** | Hardhat Local (Chain ID: 31337) / Sepolia Testnet (Chain ID: 11155111) |
-
----
-
 ## 🎯 Chiffres Clés du Projet
 
 <p align="center">
